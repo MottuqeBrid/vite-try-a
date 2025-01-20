@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import "../../node_modules/milligram/dist/milligram.min.css";
+// import "../../node_modules/milligram/dist/milligram.min.css";
 const FormByUsestat = () => {
   const [showDate, setShowDate] = useState(false);
   const [fdata, setFdata] = useState({
